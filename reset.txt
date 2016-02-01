@@ -1,1 +1,2 @@
 this is reset command1
+this is reset commit2
